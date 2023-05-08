@@ -1,0 +1,105 @@
+let imgCartas = [
+    {
+        "nombre":"Jack Frost",
+        "numero":1,
+        "src":"./img/Jack_frost_transparent.jpg",
+
+    },
+
+    {
+        "nombre":"Jack Frost",
+        "numero":2,
+        "src":"./img/Jack_frost_transparent.jpg"
+    },
+
+    {
+        "nombre":"lilim",
+        "numero":3,
+        "src":"./img/lilim.jpg"
+    },
+
+    {
+        "nombre":"lilim",
+        "numero":4,
+        "src":"./img/lilim.jpg"
+    },
+
+    {
+        "nombre":"angel",
+        "numero":5,
+        "src":"./img/angel.jpg"
+    },
+
+    {
+        "nombre":"angel",
+        "numero":6,
+        "src":"./img/angel.jpg"
+    },
+
+    {
+        "nombre":"izanagi",
+        "numero":7,
+        "src":"./img/izanagi.jpg"
+    },
+
+    {
+        "nombre":"izanagi",
+        "numero":8,
+        "src":"./img/izanagi.jpg"
+    },
+
+    {
+        "nombre":"Pyro jack",
+        "numero":9,
+        "src":"./img/Pyrojack.jpg"
+    },
+
+    {
+        "nombre":"Pyro jack",
+        "numero":10,
+        "src":"./img/Pyrojack.jpg"
+    },
+
+    {
+        "nombre":"Sarasvati",
+        "numero":11,
+        "src":"./img/Sarasvati.jpg"
+    },
+
+    {
+        "nombre":"Sarasvati",
+        "numero":12,
+        "src":"./img/Sarasvati.jpg"
+    },
+
+    {
+        "nombre":"Thor",
+        "numero":13,
+        "src":"./img/Thor.jpg"
+    },
+
+    {
+        "nombre":"Thor",
+        "numero":14,
+        "src":"./img/Thor.jpg"
+    },
+
+    {
+        "nombre":"Titan",
+        "numero":15,
+        "src":"./img/Titan.jpg"
+    },
+
+    {
+        "nombre":"Titan",
+        "numero":16,
+        "src":"./img/Titan.jpg"
+    },
+
+
+    
+
+    
+
+
+]
